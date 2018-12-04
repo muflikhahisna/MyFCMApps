@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1020184977261",
+    "firebase_url": "https://myfcmclient-88ec8.firebaseio.com",
+    "project_id": "myfcmclient-88ec8",
+    "storage_bucket": "myfcmclient-88ec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020184977261:android:c547f73cd3f8c9b1",
+        "android_client_info": {
+          "package_name": "com.example.amikom.myfcmclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020184977261-c99mq8atat25dsl8m690c53aevod5ntd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amikom.myfcmclient",
+            "certificate_hash": "5b6b5d6c2d9a1853ed1b9657e4970827e7d31f0b"
+          }
+        },
+        {
+          "client_id": "1020184977261-lrpjuur1qqlfcmfpnnoc7mu8mr6uvavg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHEZOlQdgpPcFr9LGRapWZNCcmO1EeASY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020184977261-lrpjuur1qqlfcmfpnnoc7mu8mr6uvavg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
